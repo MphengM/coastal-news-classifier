@@ -1,4 +1,4 @@
-# news-classifier-2026
+# coastal-news-classifier
 Modernising my 2018 CSIR news classification project with current Python tools 
 
 ## Original Project (2016 - 2018)
